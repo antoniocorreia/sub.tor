@@ -1,0 +1,138 @@
+1
+00:00:00.950 --> 00:00:04.102
+Olá e bem-vindo à minha programação paraclaro que todo mundo na Coursera.
+2
+00:00:04.102 --> 00:00:07.510
+Meu nome é Charles Severance eEu sou um professor clínico associado na
+3
+00:00:07.510 --> 00:00:09.450
+da Universidade deEscola de Michigan de Informação.
+4
+00:00:10.740 --> 00:00:13.410
+Estou convencido de que ninguémpode aprender a programar, e
+5
+00:00:13.410 --> 00:00:16.950
+Eu construí um curso que introduz-lo para as noções básicas de programação.
+6
+00:00:16.950 --> 00:00:20.930
+Você não precisa ser um especialista em matemática.Se você pode adicionar, subtrair, multiplicar,
+7
+00:00:20.930 --> 00:00:22.120
+e os números de divida,
+8
+00:00:22.120 --> 00:00:24.200
+você está pronto para tomar esta classe.
+9
+00:00:24.200 --> 00:00:27.400
+Mas eu não só quero te ensinara linguagem de programação Python.
+10
+00:00:27.400 --> 00:00:29.540
+Tenho alguns outros objetivos.
+11
+00:00:29.540 --> 00:00:33.800
+Em primeiro lugar, eu gostaria de ensiná-lode ter uma aula de programação.
+12
+00:00:33.800 --> 00:00:38.235
+Há muitos recursos maravilhososcomo Khan Academy e Academia Código e
+13
+00:00:38.235 --> 00:00:43.180
+Code.org na web que podem ensinarvocê pedaços de programação.
+14
+00:00:43.180 --> 00:00:47.240
+Talvez você tenha sequer começado a aprenderprogramação usando zero ou Minecraft.
+15
+00:00:47.240 --> 00:00:50.080
+Mas aprender no seu próprio paíssó vai chegar tão longe.
+16
+00:00:50.080 --> 00:00:53.320
+E aulas de programaçãopode ser um desafio.
+17
+00:00:53.320 --> 00:00:56.520
+Então, eu quero que você desenvolva habilidadesem tomar aulas de programação,
+18
+00:00:56.520 --> 00:01:01.010
+de modo que você pode conseguir tomar outrascursos, como os da Universidade Rice,
+19
+00:01:01.010 --> 00:01:04.090
+da Universidade de Washington, ou outros.
+20
+00:01:04.090 --> 00:01:08.040
+Meu segundo objetivo é ensiná-lo a orientaroutros, para ajudá-los a aprender a programação.
+21
+00:01:08.040 --> 00:01:11.900
+Porque se nós estamos indo realmente paraalcançar programação para toda a gente,
+22
+00:01:11.900 --> 00:01:13.910
+precisamos lotes de mentores.
+23
+00:01:13.910 --> 00:01:14.940
+Mesmo nesta classe,
+24
+00:01:14.940 --> 00:01:18.480
+você vai aprender muito com o outroestudantes e assistentes comunidade de ensino.
+25
+00:01:19.500 --> 00:01:22.390
+E uma-a-uma interacçãoé realmente importante.
+26
+00:01:22.390 --> 00:01:25.740
+Especialmente quando a aprendizagem complexahabilidades como programação.
+27
+00:01:25.740 --> 00:01:29.670
+Meu terceiro objetivo é dar a todosum kit de materiais livres e abertas, de modo
+28
+00:01:29.670 --> 00:01:33.850
+que qualquer um que é um professor pode ensinaruma versão desta classe localmente.
+29
+00:01:33.850 --> 00:01:36.740
+Todos os materiais deste cursoestão disponíveis sob uma criativa
+30
+00:01:36.740 --> 00:01:38.220
+licença Commons.
+31
+00:01:38.220 --> 00:01:39.340
+O livro é gratuito.
+32
+00:01:39.340 --> 00:01:40.990
+Os arquivos do PowerPoint são livres.
+33
+00:01:40.990 --> 00:01:43.040
+Os materiais de áudio e vídeo são gratuitas.
+34
+00:01:43.040 --> 00:01:46.820
+E o que eu autograderuso em sala de aula também é gratuito.
+35
+00:01:46.820 --> 00:01:49.350
+Eu fornecer-lhe um link paranosso site Abrir Michigan
+36
+00:01:49.350 --> 00:01:51.580
+onde você pode baixar todoos materiais para a classe.
+37
+00:01:53.430 --> 00:01:56.500
+Acredito firmemente que as aulas comecemprecisam ser ensinados em sua nativa
+38
+00:01:56.500 --> 00:02:00.000
+a linguagem, então eu quero encorajar os professoresao redor do mundo para levar os meus materiais,
+39
+00:02:00.000 --> 00:02:05.090
+traduzi-las, remix deles, e republicar-los com uma licença Creative Commons.
+40
+00:02:05.090 --> 00:02:06.310
+Eu gostaria de ver o livro-texto para
+41
+00:02:06.310 --> 00:02:09.280
+o curso também disponibilizados emmuitas línguas diferentes também.
+42
+00:02:10.810 --> 00:02:13.070
+Para resumir isso tudo, eu vejo programação para
+43
+00:02:13.070 --> 00:02:17.270
+Todos como muito mais do que uma únicaclasse, eu quero que isso se torne um movimento
+44
+00:02:17.270 --> 00:02:21.780
+que cria um ecossistema aberto em expansãoque nos traz todos mais próximos.
+45
+00:02:21.780 --> 00:02:27.170
+E nos ajuda a avançar para um mundo ondeprogramação é verdadeiramente para todos.
+46
+00:02:27.170 --> 00:02:27.690
+Vejo você na aula.
